@@ -1,9 +1,14 @@
+# Customizing Inkscape
 
-Tool Areas:
+If you find that Inkscape's default bright white theme sears your retinas, here are some tricks for darkening the theme, and moderizing the icons while you're at it.
 
-replace the gtk-2.0 directory in:
+## Tool Areas:
+
+Navigate to: 
 
 /Applications/Inkscape.app/Contents/Resources/etc
+
+and replace the gtk-2.0 directory with the one in this repo.  This will make all of your tool areas a very dark grey.  
 
 Workspace Background:
 
