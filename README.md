@@ -2,7 +2,7 @@
 
 # Customizing Inkscape
 
-If you find that Inkscape's default bright white theme sears your retinas, here are some tricks for darkening the theme, and moderizing the icons while you're at it.  This works on MacOS.  You can also make this work on a PC, but the paths for the files are going to be different, so you'll have to look around a bit, or follow this guide from [Logos by Nick](https://logosbynick.com/how-to-make-inkscape-go-dark/).  If you're using Linux just google inkscape dark theme.  There's a much easier solution out there for Linux.
+If you find that Inkscape's default bright white theme sears your retinas, here are some tricks for darkening the theme, and moderizing the icons while you're at it.  This works on MacOS.  You can also make this work on a PC, but the paths for the files are going to be different, so you'll have to look around a bit, or follow this guide from [Logos by Nick](https://logosbynick.com/how-to-make-inkscape-go-dark/).  If you're using Linux just google inkscape dark theme -- there's a much easier solution out there for Linux.
 
 ## Tool Areas:
 
