@@ -12,7 +12,7 @@ Navigate to
 /Applications/Inkscape.app/Contents/Resources/etc/
 ```
 
-and replace the `gtk-2.0` directory with the one in this repo. This will make all of your tool areas a very dark gray.  
+and replace the `gtk-2.0` directory with the one in this repo. This will make all of your tool areas a very dark grey.  
 
 I excavated this directory out of a zipped exe file from [byJohnny, LLC](http://byjohnny.com/).  
 
